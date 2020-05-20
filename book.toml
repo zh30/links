@@ -1,0 +1,17 @@
+[book]
+authors = ["Zhang He"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "收藏 +"
+description = "我是收藏家，发现好事物，分享你我他。"
+
+[output.html]
+theme = "theme"
+mathjax-support = true
+preferred-dark-theme = "ayu"
+google-analytics = "UA-166861237-6"
+git-repository-url = "https://github.com/zhanghecool/links"
+
+[output.html.playpen]
+editable = true
