@@ -6,5 +6,8 @@
 
 ## 分类
 
-- [ ] [在线学习网站](online-learning-website.md)
-- [ ] [在线编辑器](online-code-editor.md)
+| 类别                                   |
+| :------------------------------------- |
+| [在线学习](online-learning-website.md) |
+| [在线编辑器](online-code-editor.md)    |
+| [文件传输](file-transfer.md)           |
